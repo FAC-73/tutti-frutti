@@ -14,7 +14,7 @@ When brought back online:
   * Offline entries are added to tracker.
 
 
-![Budget Tracker App](https://github.com/FAC-73/tutti-frutti/blob/main/assets/landing-page.png?raw=true)
+![Budget Tracker App](https://github.com/FAC-73/tutti-frutti/blob/main/Assets/App-screenshot.png?raw=true)
 Launch application [Heroku Deployment](https://mighty-taiga-88316.herokuapp.com/)
 <br />
 
